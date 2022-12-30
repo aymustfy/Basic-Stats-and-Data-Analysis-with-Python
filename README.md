@@ -1,5 +1,4 @@
 # Basic-Stats-and-Data-Analysis-with-Python
-In this repository, basic statistics and statistical analysis methods are applied in python programming language.
 
 ![Scheme](https://i.imgur.com/3ZficIr.png)
 
