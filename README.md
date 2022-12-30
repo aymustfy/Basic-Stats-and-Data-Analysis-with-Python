@@ -19,6 +19,7 @@ https://statisticsbyjim.com/hypothesis-testing/nonparametric-parametric-tests/
 [![Numpy](https://img.shields.io/badge/-MATPLOTLIB-blue?style=for-the-badge&logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg"&logoColor=white)]()
 [![Numpy](https://img.shields.io/badge/-GGPLOT-red?style=for-the-badge&logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg"&logoColor=white)]()
 [![Numpy](https://img.shields.io/badge/-PINGOUIN-blueviolet?style=for-the-badge&logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg"&logoColor=white)]()
+[![Numpy](https://img.shields.io/badge/-MISSINGNO-ff69b4?style=for-the-badge&logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg"&logoColor=white)]()
 
 
 
