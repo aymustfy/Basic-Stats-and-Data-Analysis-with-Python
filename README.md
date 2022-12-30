@@ -7,7 +7,7 @@ The scheme above was followed during the implementation process. First, parametr
 
 The sequence number-analysis method(number of data used) template has been applied in Python files. The data used is added in a separate folder.
 
-
+The python libraries used in the repository are listed below.
 
 [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]()
 [![Numpy](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)]()
